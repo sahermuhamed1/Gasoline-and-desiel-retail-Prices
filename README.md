@@ -3,11 +3,17 @@ Gasoline and desiel analysis using Power BI + Power Query
 
 
 # Table of Contents
+
 1.**Introduction**
+
 1.**Overview Dashboard**
+
 3.**Dataset**
+
 4.**SQL**
+
 5.**Usage**
+
 6.**Contact Info**
 
 
@@ -16,7 +22,9 @@ This project use Power Bi + SQL for answering the KPIs about the Gasoline and De
 
 
 # Overview Dashboard
-![Dashboard](DashB1.png)
+
+![Dashboard](Dashb1.png)
+
 ![Dashboard](DashB2.png)
 
 **Process of the project**
