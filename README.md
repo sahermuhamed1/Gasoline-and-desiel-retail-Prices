@@ -21,10 +21,12 @@ Gasoline and desiel analysis using Power BI + Power Query
 This project use Power Bi + SQL for answering the KPIs about the Gasoline and Desiel industry.
 
 
-# Overview Dashboard
+# Dashboard final rview
 
+1. Overview page
 ![Dashboard](Dashb1.png)
 
+2. Info page
 ![Dashboard](DashB2.png)
 
 **Process of the project**
